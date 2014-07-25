@@ -1,0 +1,10 @@
+[PropertyInfo]
+listaDominios,String,false,false, , ,false,<por defecto>
+reconexiones,int,false,false, , ,false,<por defecto>
+s_dominio,String,false,false, , ,false,<por defecto>
+s_url,String,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+
